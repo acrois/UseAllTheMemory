@@ -9,6 +9,11 @@ namespace UseAllTheMemory
         static void Main(string[] args)
         {
             PerformanceCounter counter = new PerformanceCounter("Memory", "Available MBytes", null);
+
+            Console.WriteLine("Using a lot of memory... Starting at: " + counter.NextValue() + "MB");
+            var top = Console.CursorTop;
+            var left = Console.CursorLeft;
+
             LinkedList<int> memstore = new LinkedList<int>();
 
             while (true)
@@ -17,7 +22,8 @@ namespace UseAllTheMemory
 
                 if (memstore.Count % 1000000 == 0)
                 {
-                    Console.WriteLine(counter.NextValue());
+                    Console.WriteLine("Size: " + memstore.Count + ", Memory: " + counter.NextValue() + "MB");
+                    Console.SetCursorPosition(left, top);
                 }
             }
         }

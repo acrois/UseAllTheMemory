@@ -6,3 +6,11 @@ C:\Users\supah\source\repos\UseAllTheMemory\obj\Debug\UseAllTheMemory.csproj.Sug
 C:\Users\supah\source\repos\UseAllTheMemory\obj\Debug\UseAllTheMemory.csproj.CoreCompileInputs.cache
 C:\Users\supah\source\repos\UseAllTheMemory\obj\Debug\UseAllTheMemory.exe
 C:\Users\supah\source\repos\UseAllTheMemory\obj\Debug\UseAllTheMemory.pdb
+C:\projects\UseAllTheMemory\bin\Debug\UseAllTheMemory.exe.config
+C:\projects\UseAllTheMemory\bin\Debug\UseAllTheMemory.exe
+C:\projects\UseAllTheMemory\bin\Debug\UseAllTheMemory.pdb
+C:\projects\UseAllTheMemory\obj\Debug\UseAllTheMemory.csproj.AssemblyReference.cache
+C:\projects\UseAllTheMemory\obj\Debug\UseAllTheMemory.csproj.SuggestedBindingRedirects.cache
+C:\projects\UseAllTheMemory\obj\Debug\UseAllTheMemory.csproj.CoreCompileInputs.cache
+C:\projects\UseAllTheMemory\obj\Debug\UseAllTheMemory.exe
+C:\projects\UseAllTheMemory\obj\Debug\UseAllTheMemory.pdb
